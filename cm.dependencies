@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "CM-zenfone2/android_kernel_asus_moorfield",
+    "target_path": "kernel/asus/moorefield"
+  }
+]
